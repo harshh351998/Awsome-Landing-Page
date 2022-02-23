@@ -226,7 +226,10 @@ p {
 .signupform {
     background-color: #f6f8fa;
     margin-right: 200px;
-    padding: 0px 50px 10px 50px;
+    padding-top: auto;
+    padding-bottom: auto;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 .signupform h6 {
     color: black;
